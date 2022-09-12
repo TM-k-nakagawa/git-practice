@@ -1,5 +1,3 @@
 Hello World
 こんにちは
-
-
-aaaaa
+なかがわがんばるぞ
